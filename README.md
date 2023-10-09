@@ -118,9 +118,4 @@ Profit Prediction for a population of 70000 :
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
 
-## Output:
-![linear regression using gradient descent](sam.png)
 
-
-## Result:
-Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
